@@ -3,7 +3,7 @@ Home Assistant HACS deSec integration (dedyn.io)
 
 ```
 # Example configuration.yaml entry
-desec_dedyn:
+deSEC:
   # full DNS name
   domain: example.dedyn.io 
   # access token in quotes
