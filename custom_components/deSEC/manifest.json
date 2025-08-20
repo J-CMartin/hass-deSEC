@@ -4,6 +4,6 @@
   "documentation": "https://github.com/J-CMartin/hass-deSEC/blob/master/README.md",
   "issue_tracker": "https://github.com/J-CMartin/hass-deSEC/issues",
   "codeowners": ["@J-CMartin"],
-  "iot_class": "cloud_push"
+  "iot_class": "cloud_push",
   "version": "0.1.0"
 }
