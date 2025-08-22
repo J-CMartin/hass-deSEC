@@ -16,7 +16,7 @@ from homeassistant.helpers.typing import ConfigType
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN = CONF_DOMAIN
+DOMAIN = "deSEC"
 
 UPDATE_INTERVAL = timedelta(minutes=10)
 
