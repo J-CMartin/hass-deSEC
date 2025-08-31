@@ -7,7 +7,7 @@ deSEC:
   # full DNS name
   domain: example.dedyn.io 
   # access token in quotes
-  access_token: "blablablaaV"
+  access_token: "CopyYourTokenHere_KeepTheDoubleQuotes"
   protocol:
     - ipv4
     - ipv6
